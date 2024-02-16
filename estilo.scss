@@ -1,5 +1,15 @@
 $primary: #028AFF;
 $success: #5CCAA7; 
 $secondary: #161347;
+$warning: #ffc107;
+
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1000px,
+  xxl: 1000px
+);
 
 @import "./node_modules/bootstrap/scss/bootstrap.scss";
